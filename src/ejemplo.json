@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "titulo":"master",
+        "usuario":"master",
+        "nombre":"Manuel Ramirez"
+    },
+    {
+        "id":"2",
+        "titulo":"tecnico",
+        "usuario":"usuario 1",
+        "nombre":"Tecnico de Soporte"
+    }
+]
